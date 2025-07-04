@@ -30,12 +30,12 @@ A fun and interactive **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **
 5. Use the **Reset** or **New Game** button to start again.
 
 ## 📂 File Structure
-
+```
 📦 Tic-Tac-Toe/
 ├── index.html # Main HTML file
 ├── style.css # Styling for the game
 └── app.js # Game logic in JavaScript
-
+```
 
 ## 🎯 Winning Conditions
 
